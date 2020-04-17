@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class solution {
+public class Geometry_Solution {
     public static void main(String[] args) {
     	String location = "C:\\Users\\corallines\\eclipse-workspace\\probable-giggle\\3_Geometric\\Geometric_Problem\\src\\";
     	File input_file = new File(location + "input.txt");
